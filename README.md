@@ -2,6 +2,9 @@
 
 > Instagram Automation streamlines engagement, content scheduling, and audience interactions through advanced workflow bots. It eliminates manual tasks like posting, following, and messaging, enabling creators, brands, and marketers to scale efficiently. Built with precision and flexibility, it’s your end-to-end automation toolkit for Instagram.
 
+It replaces the usual mix of manual posting, inbox checks, spreadsheet updates, and separate account sessions with one controlled run path. Campaign targets, hashtags, posting queues, message rules, account credentials, and network settings are kept in configuration rather than scattered across scripts. The system can route supported operations through the Instagram Platform and use managed device sessions for workflows that are intentionally deployed through mobile automation. Every run records what was attempted, what completed, what needs retrying, and what should be reviewed instead of silently repeating a failed action.
+
+
 <p align="center"> 
    <a href="https://appilot.app" target="_blank">
       <img src="media/appilot-banner-1280x540.png" alt="BITBASH Banner" width="100%"> </a> 
@@ -20,10 +23,13 @@
    </a> 
 </p> 
 
+
 <p align="center"> 
    Created by Appilot, built to showcase our approach to Automation!<br>
    <strong>If you are looking for custom Instagram Automation, you've just found your team — Let’s Chat.👆👆</strong>
 </p>
+
+
 
 ## Introduction
 Instagram Automation simplifies and accelerates repetitive actions such as content posting, DM replies, engagement tracking, and hashtag analysis.  
@@ -35,6 +41,15 @@ It is designed for creators, marketers, and agencies seeking to save time and im
 - Manages DMs for lead generation and support automation.  
 - Tracks analytics and interaction patterns in real-time.  
 - Supports multiple accounts with proxy rotation for safe scaling.
+
+
+
+
+<a href="https://www.youtube.com/watch?v=dnfJDj2SoHI" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20the%20Full%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the Full Demo">
+</a>
+
+
 
 ## Core Features
 | Feature | Description |
