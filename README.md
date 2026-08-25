@@ -49,6 +49,9 @@ It is designed for creators, marketers, and agencies seeking to save time and im
   <img src="https://img.shields.io/badge/Watch%20the%20Full%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the Full Demo">
 </a>
 
+<a href="https://youtu.be/_-yXmFzZ_Ak" target="_blank">
+  <img src="https://img.shields.io/badge/Watch%20the%20Full%20Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Integration of SMM into Instagram ">
+</a>
 
 
 ## Core Features
