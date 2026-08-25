@@ -89,6 +89,11 @@ It is designed for creators, marketers, and agencies seeking to save time and im
 - **Infrastructure:** Dockerized device farms, Cloud-based emulators, Proxy networks, Parallel Device Execution, Real Device Farms. 
 - **Logging:** Rotating file handlers with structured JSON output  
 
+## Workflow
+
+A run starts with campaign configuration: account, target lists, hashtags, posting queue, message rules, and execution mode. Authentication then establishes the API or managed-device session. The task router sends each operation to the appropriate execution layer, while rate-aware pacing, structured logging, and retry rules sit around the run rather than being bolted on afterward. Successful publishing and interaction events feed the analytics layer; temporary failures enter a retry path; authentication errors, rejected actions, or ambiguous states move to review. Outputs are written as JSON for machine use and CSV summaries for operators. That separation matters because an automation should be able to stop, explain its state, and resume without treating every error as permission to keep clicking.
+
+
 
 ## Directory Structure
 ```
